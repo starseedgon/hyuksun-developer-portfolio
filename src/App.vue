@@ -2,7 +2,7 @@
 import { onMounted, ref } from 'vue'
 
 const profile = {
-  email: 'your-email@example.com',
+  email: 'monad.gon@example.com',
   github: 'https://github.com/YOUR_GITHUB_ID',
 }
 const navOpen = ref(false)
